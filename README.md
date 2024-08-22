@@ -18,10 +18,6 @@ Bem-vindo ao meu portfólio! Este é o meu projeto pessoal desenvolvido para apr
 - **CSS**
 - **Google Fonts** para tipografia.
 
-### Visualização
-
-Veja o portfólio ao vivo [aqui](https://peaceful-starlight-02739b.netlify.app/).
-
 ### Como Executar Localmente
 
 1. Clone o repositório:
